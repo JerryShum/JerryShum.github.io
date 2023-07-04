@@ -9,7 +9,8 @@
 }
 
 .small-proj-card {
-    border: 1px solid #e8b5ce;
+    /* border: 1px solid #e8b5ce; */
+    border: none;
 }
 
 .small-card-text {

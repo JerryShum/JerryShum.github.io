@@ -231,6 +231,7 @@ Bold: 700
 .card-img {
     max-width: 100%;
     height: 100%;
+    scale: 110%;
     transition: all 0.3s;
 }
 
@@ -412,4 +413,11 @@ Bold: 700
 .footer-link:visited {
     text-decoration: none;
     color: rgb(234, 235, 234, 0.8);
+
+    transition: all 0.3s;
+}
+
+.footer-link:hover,
+.footer-link:active {
+    color: #eaebea;
 }
