@@ -7,7 +7,7 @@
 /** --------------------------------- */
 
 .section-contacts {
-    background: url(../img/contact_background.svg) no-repeat bottom center;
+    /* background: url(../img/contact_background.svg) no-repeat bottom center; */
     background-size: cover;
     z-index: -100;
 }
